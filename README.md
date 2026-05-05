@@ -75,5 +75,4 @@ This project was a collaborative effort by:
 This system is intended for informational and educational purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
 
 ---
-*Created with ❤️ using Python and Streamlit.*
-# Intelligent-Disease-Diagnosis-System
+
